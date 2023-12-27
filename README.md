@@ -1,9 +1,14 @@
-# 3D Human Pose Estimation
+# Neural network methods in fraud detection applications
 
-This repository is dedicated to my bachelor's thesis. Currently, I've completed
-the first report, available as a PDF file [report_1_ru.pdf](https://github.com/qw1zzard/bachelor_thesis/blob/main/report_1_ru.pdf).
-It encompasses a comprehensive literature review on the subject. Check this out
-for detailed insights.
+Welcome to this repository dedicated to my bachelor's thesis. I've authored two
+reports, which you can find in PDF format:
+- [report_1_ru.pdf](https://github.com/qw1zzard/bachelor_thesis/blob/main/report_1_ru.pdf)
+- [report_2_ru.pdf](https://github.com/qw1zzard/bachelor_thesis/blob/main/report_2_ru.pdf)
 
-Feel free to reach out with any questions about this topic. I aim to be
-meticulous in all aspects of my work. 
+These reports encompass a comprehensive literature review on the chosen topics.
+Originally, my intention was to delve into the task of human pose estimation,
+but I later shifted my focus to fraud detection. For in-depth insights, feel
+free to explore the reports.
+
+Don't hesitate to reach out if you have any questions. I aim for thoroughness in
+all aspects of my work.
